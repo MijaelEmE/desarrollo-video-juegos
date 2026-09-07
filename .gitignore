@@ -1,0 +1,94 @@
+# Unity caches and generated output
+.utmp/
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.log
+
+# IDE and editor output
+.vs/
+.idea/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.DotSettings.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Imported and crash artifacts
+*.blend1
+*.blend1.meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+mono_crash.*
+crashlytics-build.properties
+
+# Builds and packages
+*.apk
+*.aab
+*.unitypackage
+*.unitypackage.meta
+*.app
+
+# Generated Unity assets
+/[Aa]ssets/Plugins/Editor/JetBrains*
+/ServerData
+/[Aa]ssets/StreamingAssets/aa*
+/[Aa]ssets/AddressableAssetsData/link.xml*
+/[Aa]ssets/Addressables_Temp*
+/Assets/AddressableAssetsData/*/*.bin*
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+/[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+/[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Backups created by the PA1 scene builder
+/Assets/_Project/Scenes/Backups/
+/Assets/_Project/Scenes/Backups.meta
+
+# Archivos locales que no pertenecen al código entregable
+/Documentation/
+/Entrega/
+/Tools/
+/.vscode/
+/.gitattributes
+/Assets/Scenes/
+/Assets/Scenes.meta
+/Assets/InputSystem_Actions.inputactions*
+/Assets/Settings/Lit2DSceneTemplate.scenetemplate*
+/Assets/Settings/Scenes/
+/Assets/Settings/Scenes.meta
+/Assets/_Project/Editor/
+/Assets/_Project/Editor.meta
+/Assets/_Project/Scenes/LaboratorioMovimiento.unity*
+/Assets/_Project/Materials/ChromaSprite.shader*
+/Assets/_Project/Materials/ExplorerChroma.mat*
+/Assets/_Project/Sprites/ExplorerChroma.png*
+/Assets/_Project/Sprites/LaboratoryBackground.png*
+/Assets/_Project/Scripts/CameraFollow2D.cs*
+/Assets/_Project/Scripts/LabCamera.cs*
+/ProjectSettings/Packages/com.unity.ai.assistant/
+~$*.docx
